@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "products": [
+    {
+      "id": "1",
+      "nama": "KENTA",
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/d8881bfbce9a6f111352e17a548ca581jpg"
+    }
+  ],
+  "totalRecordCount": 10,
+  "version": "17.0.13"
+}
